@@ -18,3 +18,7 @@ path="2015/01/second/main.rs"
 [[bin]]
 name="2015-02-1st"
 path="2015/02/first/main.rs"
+
+[[bin]]
+name="2015-02-2nd"
+path="2015/02/second/main.rs"
